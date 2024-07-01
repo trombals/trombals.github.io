@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://trombals.github.io/sitemap/sitemap.txt
